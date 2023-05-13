@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<body>
 		<a href="add.php">新增</a>
-		<table border="2" style="border:6px blue;">
+		<table border="1" style="border:1px blue solid;font-size:20px" >
 		<thead>
 			<tr>
 				<th>ID</th>

@@ -1,6 +1,6 @@
 <html>
 	<h1>新增使用者</h1>
-
+	<meta charset="utf-8">
 	<form action="insert.php" method="post">
 		姓名:<input type="text" name="user_name" /><br/>
 		性別:
