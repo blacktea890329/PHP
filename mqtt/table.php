@@ -29,7 +29,7 @@
 				<td><?=$sensor[$row['name']];?></td>
 				<td><?=$row['value'];?></td>
 				<td><?=$row['datetime']?></td>
-				<td><a href="chart.php?name=<?=$row['name'];?>">折線圖</a></td>
+				<td><a target="_blank" href="chart.php?name=<?=$row['name'];?>">折線圖</a></td>
 			</tr>
 		<?php
 			}
